@@ -1,0 +1,10 @@
+rich>=13.0.0
+pygments>=2.14.0
+pyperclip>=1.8.2
+
+[dev]
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0

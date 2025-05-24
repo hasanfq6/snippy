@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+snippy/__init__.py
+snippy/cli.py
+snippy/clipboard.py
+snippy/database.py
+snippy/display.py
+snippy/executor.py
+snippy.egg-info/PKG-INFO
+snippy.egg-info/SOURCES.txt
+snippy.egg-info/dependency_links.txt
+snippy.egg-info/entry_points.txt
+snippy.egg-info/requires.txt
+snippy.egg-info/top_level.txt
+tests/test_basic.py
